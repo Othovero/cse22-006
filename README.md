@@ -1,2 +1,2 @@
 # cse22-006
-Movie websitte clone projects
+Movie website clone project
